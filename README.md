@@ -6,10 +6,6 @@ _Poker AI_
 C++ Poker Implementation that uses multithreading to train the AI against itself. 
 The AI uses a decision tree like structure to store weights. These weights are used to calculate what decision the AI should make in a particular situation._
 
-## Members:
-List each team member along with a short description of their responsibility.
-
-1. Alec Straw - _C++ machine learning_
 
 ## Instructions:
 The C++ code stores players or computer players in a list. Main creates many games in a loop so when it is run it will play many games simultaneously against itself._
